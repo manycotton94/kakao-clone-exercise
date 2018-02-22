@@ -1,0 +1,7 @@
+.find .find__options {
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
