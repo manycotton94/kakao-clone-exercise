@@ -13,10 +13,12 @@
   background-color: #eeeeee;
   font-size: 13px;
   text-align: center;
+  transition: border-color .2s linear;
 }
 
 .search-bar input:focus {
   outline: none;
+  border-color: #fee433;
 }
 
 .search-bar .fa-search {
